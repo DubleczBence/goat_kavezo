@@ -111,7 +111,7 @@ nav .links a:hover::after {
     padding: 1.3rem 5rem;
     margin: 3rem 0;
     cursor: pointer;
-    color: var(--white);
+    color: var(--black);
     font-size: 1.4rem;
     font-weight: 500;
     border: 0.3rem solid var(--font-heading);
@@ -606,6 +606,22 @@ img[alt="kavek1-img"]:hover::after {
 .csapat .container .csapat-box:hover .csapat-content {
     transform: translateY(-1rem);
 }
+
+
+
+
+.hozzaszolas h1{
+    font-size: 3.2rem;
+    text-align: center;
+}
+
+.hozzaszolas p {
+    font-size: 1.5rem;
+}
+
+
+
+
 
 
 
